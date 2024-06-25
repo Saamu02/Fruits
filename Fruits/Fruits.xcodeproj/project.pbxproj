@@ -16,6 +16,7 @@
 		04ADAD572C2ACB1F003F049D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ADAD562C2ACB1F003F049D /* OnboardingView.swift */; };
 		04ADAD5D2C2ACEE5003F049D /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ADAD5C2C2ACEE5003F049D /* FruitData.swift */; };
 		04ADAD5F2C2ACEF2003F049D /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ADAD5E2C2ACEF2003F049D /* FruitModel.swift */; };
+		04ADAD612C2AFA82003F049D /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ADAD602C2AFA82003F049D /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		04ADAD562C2ACB1F003F049D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		04ADAD5C2C2ACEE5003F049D /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
 		04ADAD5E2C2ACEF2003F049D /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		04ADAD602C2AFA82003F049D /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				043387B52C2A9CB70034ECA3 /* FruitCardView.swift */,
 				04ADAD522C2ABF57003F049D /* StartButtonView.swift */,
+				04ADAD602C2AFA82003F049D /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				04ADAD5D2C2ACEE5003F049D /* FruitData.swift in Sources */,
 				043387B62C2A9CB70034ECA3 /* FruitCardView.swift in Sources */,
+				04ADAD612C2AFA82003F049D /* FruitRowView.swift in Sources */,
 				04842EB12C2996BC003AB35A /* ContentView.swift in Sources */,
 				04842EAF2C2996BC003AB35A /* FruitsApp.swift in Sources */,
 				04ADAD572C2ACB1F003F049D /* OnboardingView.swift in Sources */,

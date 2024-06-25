@@ -15,7 +15,7 @@ struct OnboardingView: View {
         
         TabView {
             
-            ForEach(fruits) { fruit in
+            ForEach(fruits[0...5]) { fruit in
                 FruitCardView(fruit: fruit)
             }
         }
