@@ -42,7 +42,9 @@ https://github.com/Saamu02/Fruits/assets/126147404/00d7c6e3-bba8-4a9a-ba67-6909a
 
 
 
+## 
+## 
+
 Note: I am following the tutorials SwiftUI + SwiftData Masterclass - iOS App Development Swift by Robert Petras.
 
 Reference Link: https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/
-
