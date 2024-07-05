@@ -4,7 +4,7 @@ App 4: App made with SwiftUI for iOS.
 
 The multiscreen app.
 
-# Learning Points:
+# Important Points:
 - Create Onboarding screen
 - How to use page view using tab view
 - Use of list view
